@@ -1,4 +1,4 @@
-# codeclausetask2
+# CodeClause_task2
 Project Aim:
 Develop a web-based news aggregator.
 
